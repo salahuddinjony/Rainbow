@@ -1,0 +1,6 @@
+purple 
+red
+yellow
+green
+tomato 
+skyblue
