@@ -23,8 +23,8 @@ __বোল্ট টেক্স__
 আর্ডার লিস্টঃ
 1. Order item 1
 2. Order item 2
-   1 Order item 1
-   2 Order item 2
+   * Order item 1
+   * Order item 2
    
 আন-অর্ডারঃ
 * Unorder item 1
